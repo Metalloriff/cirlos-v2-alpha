@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7b1416c2.chunk.css",
+    "main.js": "./static/js/main.3d10693e.chunk.js",
+    "main.js.map": "./static/js/main.3d10693e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cf240551.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cf240551.js.map",
+    "static/js/2.52a35fc5.chunk.js": "./static/js/2.52a35fc5.chunk.js",
+    "static/js/2.52a35fc5.chunk.js.map": "./static/js/2.52a35fc5.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7b1416c2.chunk.css.map": "./static/css/main.7b1416c2.chunk.css.map",
+    "static/js/2.52a35fc5.chunk.js.LICENSE.txt": "./static/js/2.52a35fc5.chunk.js.LICENSE.txt",
+    "static/media/Chevron.c3ee4024.svg": "./static/media/Chevron.c3ee4024.svg",
+    "static/media/Logo.8c80fb7a.svg": "./static/media/Logo.8c80fb7a.svg",
+    "static/media/TwemojiHeart.a32c5071.svg": "./static/media/TwemojiHeart.a32c5071.svg",
+    "static/media/WaveVector.d8601ff9.svg": "./static/media/WaveVector.d8601ff9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf240551.js",
+    "static/js/2.52a35fc5.chunk.js",
+    "static/css/main.7b1416c2.chunk.css",
+    "static/js/main.3d10693e.chunk.js"
+  ]
+}
