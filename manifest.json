@@ -38,6 +38,5 @@
   "start_url": ".",
   "description": "A simpler way to connect with friends and family, with powerful ways to personalize your experience.",
   "background_color": "#2c3946",
-  "theme-color": "#7bb1bd",
-  "scope": "#app"
+  "theme-color": "#7bb1bd"
 }
