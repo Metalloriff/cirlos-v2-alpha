@@ -1,32 +1,32 @@
 {
   "icons": [
     {
-      "src": "auto/icon_512x512.36b249794212b8aa384984f7e4847174.png",
+      "src": "auto/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "auto/icon_384x384.c5aa2e80aae447505f14de9c20ee55d6.png",
+      "src": "auto/icon_384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "auto/icon_256x256.b1fbe85ee044e060a3349bd791601fe0.png",
+      "src": "auto/icon_256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "auto/icon_192x192.edfc2a4a01576084441cd0943aab1486.png",
+      "src": "auto/icon_192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "auto/icon_128x128.c29e5a2b8d1552ff640b62f26e3ab275.png",
+      "src": "auto/icon_128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "auto/icon_96x96.f924426a5e907d1921d054b27c09c7f8.png",
+      "src": "auto/icon_96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     }
@@ -37,5 +37,7 @@
   "display": "standalone",
   "start_url": ".",
   "description": "A simpler way to connect with friends and family, with powerful ways to personalize your experience.",
-  "background_color": "#2c3946"
+  "background_color": "#2c3946",
+  "theme-color": "#7bb1bd",
+  "scope": "#app"
 }
